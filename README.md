@@ -25,3 +25,9 @@ Practice creating a local repository, making commits, working on branches and me
 - git remote add origin https://github.com/s35559-del/-pgo-git-start.git
 - git push -u origin main
 - git checkout -b feature/readme
+
+
+
+## Status
+
+Project completed successfully.
